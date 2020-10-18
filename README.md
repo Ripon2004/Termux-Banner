@@ -1,6 +1,6 @@
 # Termux-Banner
 Simple Bash Script To, Design Your Favorite Termux App. <pre>
-Commands:
+<b>Commands: </b>
 1. pkg update
 2. pkg upgrade
 3. pkg install git
