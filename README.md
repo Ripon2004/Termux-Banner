@@ -1,5 +1,5 @@
 # Termux-Banner
-Simple Bash Script To, Design Your Favorite Termux App. <pre>
+Simple Bash Script To, Design Your Favorite Termux App. Best App For Run Shell Script, PHP, Python Etc Program  <pre>
 <b>Commands: </b>
 0. rm $PREFIX/etc/motd && pkg install figlet
 1. pkg update
