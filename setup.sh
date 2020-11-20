@@ -1,6 +1,6 @@
 #!usr/bin/bash
 #author : black_phish
-pkg install figlet && rm $PREIX/etc/motd
+pkg install figlet && rm "$PREIX/etc/motd"
 clear
 printf '\033[0;32m'
 figlet Black_Phish
