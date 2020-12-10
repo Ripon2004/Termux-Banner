@@ -9,7 +9,7 @@ Simple Bash Script To, Design Your Favorite Termux App. Best App For Run Shell S
 # After install
 Some command added this tool.
 
-# del any file & folder
+# del Name
 This command delete anything
 
 # bye Command
