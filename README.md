@@ -4,7 +4,7 @@ Simple Bash Script To, Design Your Favorite Termux App. Best App For Run Shell S
 1. pkg install figlet && rm "$PREFIX/etc/motd"
 2. curl https://raw.githubusercontent.com/Ripon2004/Termux-Banner/main/setup.sh>setup.sh
 3. sh setup.sh
-
+</pre>
 
 # After install
 Some command added this tool.
