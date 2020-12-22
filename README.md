@@ -9,6 +9,9 @@ Simple Bash Script To, Design Your Favorite Termux App. Best App For Run Shell S
 # After install
 Some command added this tool.
 
+# note Filename
+Create A File & Overwriting
+ 
 # del Name
 This command delete anything
 
@@ -42,7 +45,7 @@ Built in bash
 # base64 <<< "Text"
 Convert text to base64
 
-# base64 -d <<< "Base64 text"
+# base64 -d <<< "Text"
 Decode base64 
  
  
