@@ -33,7 +33,6 @@ alias note='cat <<exit >'
 alias del='[[ "$1" != "" ]] && rm -rf $1'
 alias go='cd $1'
 alias bye='exit'
-alias md5='echo -n "myhashedstring" | md5sum | head -c 32 && echo'
 alias utf8='echo -e $1'
 alias rot13='tr "A-Za-z" "N-ZA-Mn-za-m" <<< $1'
 """>$PREFIX/etc/bash.bashrc
