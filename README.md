@@ -21,9 +21,6 @@ This command exit terminal.
 # go Command
 This command like cd
 
-# md5 Text
-This command convert text to md5
-
 # rot13
 This command like md5, encode text to rot13
 
