@@ -45,4 +45,6 @@ Convert text to base64
 # base64 -d <<< "Text"
 Decode base64 
  
- 
+#Screenshot
+
+<img src="https://raw.githubusercontent.com/Ripon2004/Termux-Banner/main/Screenshot_20201224-224557.png"/>
